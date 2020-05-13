@@ -24,7 +24,7 @@ public class ConexaoMyDB {
     private static final String DRIVER = "com.mysql.jdbc.Driver";
     private static final String URL = "jdbc:mysql://localhost:3306/mydb?useSSL=false";
     private static final String USER = "root";
-    private static final String PASS = "LTSlucas14@";
+    private static final String PASS = "pwd";
     
     
     public static Connection getConexao(){
